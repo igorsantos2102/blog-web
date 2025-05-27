@@ -51,7 +51,7 @@ Este repositório contém o **backend** da aplicação **BlogWeb**, construído 
    mvn clean spring-boot:run
    ```
 
-O servidor ficará disponível em `http://localhost:8080`.
+O servidor ficará disponível em `http://localhost:8080`
 
 ---
 
